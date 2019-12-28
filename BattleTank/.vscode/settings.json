@@ -2,6 +2,7 @@
 	"files.exclude": {
 		"F:/Unreal/Projects/JoshMakesATankGame/BattleTank/.vscode": true,
 		"F:/Unreal/Projects/JoshMakesATankGame/BattleTank/Content": true,
-		"F:/Unreal/Projects/JoshMakesATankGame/BattleTank/Intermediate": true
+		"F:/Unreal/Projects/JoshMakesATankGame/BattleTank/Intermediate": true,
+		"F:/Unreal/Projects/JoshMakesATankGame/BattleTank/Saved": true
 	}
 }
